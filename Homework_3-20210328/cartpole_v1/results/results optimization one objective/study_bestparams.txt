@@ -1,0 +1,12 @@
+Study statistics: 
+  Number of finished trials:  50
+  Number of pruned trials:  41
+  Number of complete trials:  9
+Best trial:
+  Average score:  388.674
+  Convergence episode: 241
+   Params:
+    max_temp: 8
+    gamma: 0.9685315043284639
+    target_net_update_steps: 3
+    learning_rate: 0.07985216521144392
