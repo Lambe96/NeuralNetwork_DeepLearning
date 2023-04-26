@@ -1,0 +1,16 @@
+Study statistics: 
+  Number of finished trials:  500
+  Number of pruned trials:  481
+  Number of complete trials:  19
+Best trial:
+  Value:  0.19359856843948364
+   Params:
+    batch size: 10
+    n_layers: 2
+    n_units_l0: 216
+    n_units_l1: 154
+    number of epochs: 180
+    learning rate: 0.0013727822076400682
+    l2 regularization: 7.511283609590004e-05
+    optimizer: RMSprop
+    momentum: 0.0
